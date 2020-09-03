@@ -1,5 +1,9 @@
 ﻿***** 普通日志 *****
 
+###Update Time: 2020-09-03 17:58###
+Submit Version: 2
+> 更新X10 打包工具
+
 ###Update Time: 2020-06-02 13:46###
 Submit Version: 1
 > 添加X10 打包工具
